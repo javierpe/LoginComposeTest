@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="main_welcome_label" translatable="false">Welcome %s</string>
+</resources>
