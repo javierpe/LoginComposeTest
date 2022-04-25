@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">impl</string>
+    <string name="login_user_name_label" translatable="false">Name</string>
+    <string name="login_user_password_label" translatable="false">Password</string>
+    <string name="login_button_label">Login</string>
+    <string name="login_invalid_credentials">Invalid credentials</string>
+    <string name="login_empty_fields">Empty fields</string>
+    <string name="login_exception_label">Ups!</string>
+    <string name="login_loader_label">Cargando...</string>
+    <string name="login_start_label">Iniciando</string>
+</resources>
